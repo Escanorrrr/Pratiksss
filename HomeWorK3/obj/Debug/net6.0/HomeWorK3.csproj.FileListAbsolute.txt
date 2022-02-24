@@ -1,0 +1,15 @@
+D:\Pratiks\Pratiksss\HomeWorK3\bin\Debug\net6.0\HomeWorK3.exe
+D:\Pratiks\Pratiksss\HomeWorK3\bin\Debug\net6.0\HomeWorK3.deps.json
+D:\Pratiks\Pratiksss\HomeWorK3\bin\Debug\net6.0\HomeWorK3.runtimeconfig.json
+D:\Pratiks\Pratiksss\HomeWorK3\bin\Debug\net6.0\HomeWorK3.dll
+D:\Pratiks\Pratiksss\HomeWorK3\bin\Debug\net6.0\ref\HomeWorK3.dll
+D:\Pratiks\Pratiksss\HomeWorK3\bin\Debug\net6.0\HomeWorK3.pdb
+D:\Pratiks\Pratiksss\HomeWorK3\obj\Debug\net6.0\HomeWorK3.csproj.AssemblyReference.cache
+D:\Pratiks\Pratiksss\HomeWorK3\obj\Debug\net6.0\HomeWorK3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratiks\Pratiksss\HomeWorK3\obj\Debug\net6.0\HomeWorK3.AssemblyInfoInputs.cache
+D:\Pratiks\Pratiksss\HomeWorK3\obj\Debug\net6.0\HomeWorK3.AssemblyInfo.cs
+D:\Pratiks\Pratiksss\HomeWorK3\obj\Debug\net6.0\HomeWorK3.csproj.CoreCompileInputs.cache
+D:\Pratiks\Pratiksss\HomeWorK3\obj\Debug\net6.0\HomeWorK3.dll
+D:\Pratiks\Pratiksss\HomeWorK3\obj\Debug\net6.0\ref\HomeWorK3.dll
+D:\Pratiks\Pratiksss\HomeWorK3\obj\Debug\net6.0\HomeWorK3.pdb
+D:\Pratiks\Pratiksss\HomeWorK3\obj\Debug\net6.0\HomeWorK3.genruntimeconfig.cache
